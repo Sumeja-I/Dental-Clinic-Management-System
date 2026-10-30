@@ -1,0 +1,1 @@
+create index treat_name on treatment(t_name);
